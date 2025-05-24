@@ -12,6 +12,9 @@ npm -v
 
 npm install --verbose -g n8n
 
+# Get list of installed package
+# npm list -g --depth=999 > npm_global_packages.txt
+
 sudo npm uninstall -g n8n
 ```
 
