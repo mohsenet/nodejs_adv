@@ -1,7 +1,7 @@
 Node.js adventures
 
 
-````bash
+```bash
 sudo apt update
 sudo apt install nodejs npm
 ```
